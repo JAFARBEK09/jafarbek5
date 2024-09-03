@@ -1,0 +1,77 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background: white;
+}
+.divv{
+    display: flex;
+    background: #162fa0;
+    height: 10vh;
+}
+.div{
+  display: flex;
+    background: #162fa0;
+    height: 70vh;
+    padding: 20px;
+    width: 97%;
+}
+.img{
+    width: 160px;
+    height: 50px;
+}
+.ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    text-align: right;
+    margin: 20px 460px;
+    font-size: 25px;
+    color: white;
+}
+.tex{
+   
+   font-size: 18px;
+    margin: 90px 200px;
+    color: white;
+    
+}
+
+/* .paragraph {
+    display: inline-block;
+} */
+
+.imtext {
+    display: flex;
+    width: 200px;
+    gap: 20px;
+}
+
+
+.imges{
+    width: 200px;
+    height: 200px;
+    margin: 0px 300px;
+    border: 2px solid grey;
+    border-radius: 30px;
+}
+
+.img_clothes{
+    width: 200px;
+    margin: 10px 49px;
+    border: 2px solid;
+    border-radius: 20px;
+}
+.ic{
+    display: flex;
+  gap: 40px;
+}
+
+.i{
+    display: flex;
+    gap: 60px;
+    margin: 0px 230px;
+}
+.html{
+   margin: 0px 240px;
+}
